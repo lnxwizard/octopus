@@ -2,14 +2,14 @@
 octopus is encrtyptor and decryptor for your files.
 
 # About
-- Developer: @AlperAkca79
+- Developer: @lnxwizard
 - Version: 1.0.0
 - Language: [Go](https://go.dev)
 
 # How to Use?
 - Open Command Prompt or Terminal and type them order:
 ```shell
-git clone https://github.com/AlperAkca79/octopus.git
+git clone https://github.com/lnxwizard/octopus.git
 ```
 ```shell
 cd octopus/bin
